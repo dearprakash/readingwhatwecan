@@ -2,9 +2,9 @@
 
 let first_entry = [
   {
-    Name: "Preventing an AI-related catastrophe",
+    Name: "an AI-related catastrophe",
     Link: "https://80000hours.org/problem-profiles/artificial-intelligence/",
-    Author: "Benjamin Hilton",
+    Author: "Ayn Rand",
     page_count: 22,
   },
   {
@@ -143,9 +143,9 @@ let first_entry = [
 
 let ml = [
   {
-    Name: "Preventing an AI-related catastrophe",
+    Name: "பாரதியார் கவிதைகள்",
     Link: "https://80000hours.org/problem-profiles/artificial-intelligence/",
-    Author: "Benjamin Hilton",
+    Author: "சுப்ரமண்ய பாரதியார்",
     page_count: 22,
   },
   {
@@ -159,128 +159,7 @@ let ml = [
     Link: "https://www.lesswrong.com/s/mzgtmmTKKn5MuCzFJ",
     Author: "Richard Ngo",
     page_count: 35,
-  },
-  {
-    Name: "Superintelligence",
-    Link: "https://smile.amazon.com/Superintelligence-Nick-Bostrom-audiobook/dp/B00LPMFE9Y/ref=sr_1_1?crid=34KP1XN41F9GE&keywords=superintelligence&qid=1645680946&sprefix=superintelligenc%2Caps%2C135&sr=8-1",
-    Author: "Nick Bostrom",
-    page_count: 352,
-  },
-  {
-    Name: "Risks from Learned Optimization",
-    Link: "https://arxiv.org/pdf/1906.01820.pdf",
-    Author: "Evan Hubinger et al.",
-    page_count: 39,
-  },
-  {
-    Name: "Alignment for advanced machine learning systems",
-    Link: "https://intelligence.org/files/AlignmentMachineLearning.pdf",
-    Author: "Jessica Taylor et al.",
-    page_count: 25,
-  },
-  {
-    Name: "Research agenda for AI alignment",
-    Link: "https://intelligence.org/files/TechnicalAgenda.pdf",
-    Author: "Nate Soares, Benya Fallenstein",
-    page_count: 11,
-  },
-  {
-    Name: "Eliciting Latent Knowledge",
-    Link: "https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit",
-    Author: "Alignment Research Center",
-    page_count: 106,
-  },
-  {
-    Name: "Research priorities for robust and beneficial AI",
-    Link: "https://arxiv.org/abs/1602.03506",
-    Author: "Stuart Russell, Daniel Dewey, Max Tegmark",
-    page_count: 9,
-  },
-  {
-    Name: "Training a Helpful and Harmless Assistant with RLHF",
-    Link: "https://arxiv.org/pdf/2204.05862.pdf",
-    Author: "Anthropic",
-    page_count: 74,
-  },
-  {
-    Name: "AI as positive and negative risk factors",
-    Link: "https://intelligence.org/files/AIPosNegFactor.pdf",
-    Author: "Eliezer Yudkowsky",
-    page_count: 45,
-  },
-  {
-    Name: "GopherCite",
-    Link: "https://storage.googleapis.com/deepmind-media/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes.pdf",
-    Author: "Deepmind",
-    page_count: 40,
-  },
-  {
-    Name: "The Singularity is Near",
-    Link: "https://smile.amazon.com/The-Singularity-Is-Near-audiobook/dp/B07XPFT63D/ref=sr_1_1?crid=1CDY6DV8VCXWR&keywords=the+singularity+is+near&qid=1645680963&s=audible&sprefix=the+singularity+is+nea%2Caudible%2C118&sr=1-1\n",
-    Author: "Ray Kurzweil",
-    page_count: 652,
-  },
-  {
-    Name: "Instruct-GPT-3",
-    Link: "https://arxiv.org/pdf/2203.02155.pdf",
-    Author: "OpenAI",
-    page_count: 68,
-  },
-  {
-    Name: "Concrete problems in AI safety",
-    Link: "https://arxiv.org/abs/1606.06565",
-    Author: "Dario Amodei et al.",
-    page_count: 26,
-  },
-  {
-    Name: "The Age of Em",
-    Link: "https://smile.amazon.co.uk/Age-Em-Work-Robots-Earth/dp/0198754620?sa-no-redirect=1",
-    Author: "Robin Hanson",
-    page_count: 448,
-  },
-  {
-    Name: "The Circuits Series 0",
-    Link: "https://distill.pub/2020/circuits/",
-    Author: "OpenAI",
-    page_count: 72,
-  },
-  {
-    Name: "The Circuits Series 1",
-    Link: "https://transformer-circuits.pub/2021/framework/index.html",
-    Author: "Anthropic",
-    page_count: 49,
-  },
-  {
-    Name: "The Circuits Series 2",
-    Link: "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
-    Author: "Anthropic",
-    page_count: 60,
-  },
-  {
-    Name: "World Models",
-    Link: "https://worldmodels.github.io/",
-    Author: "Jürgen Schmidhuber",
-    page_count: 21,
-  },
-  {
-    Name: "Human Compatible",
-    Link: "https://smile.amazon.com/Human-Compatible-Stuart-Russell-audiobook/dp/B07RLSGS2W/ref=sr_1_1?crid=2RT2LOPCCPXAH&keywords=human+compatible&qid=1645681009&s=audible&sprefix=human+compatible%2Caudible%2C108&sr=1-1",
-    Author: "Stuart Russell",
-    page_count: 352,
-  },
-  {
-    Name: "General intelligence from AI services",
-    Link: "https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf",
-    Author: "K. Eric Drexler",
-    page_count: 210,
-  },
-  {
-    Name: "The Alignment Problem",
-    
-    Link: "https://smile.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821?sa-no-redirect=1",
-    Author: "Brain Christian",
-    page_count: 496,
-  },
+  }
 ];
 
 let ais = [
